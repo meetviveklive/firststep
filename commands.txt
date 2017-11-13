@@ -8,6 +8,18 @@ git log
 git --help
 
 
+git branch "branch name"
+git checkout "branch name"
+git merge "branch name"
+
+git push -u origin master
+
+git branch -d "branch name"  -- delete from local
+git push origin --delete "branch name"  -- delete from remote
+
+
+
+
 git config --global user.email "meetvivek@live.in"
 git config --global user.name "meetviveklive"
 
