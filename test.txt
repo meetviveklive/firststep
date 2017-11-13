@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 5663-11E3
+
+ Directory of E:\Git
+
+13-11-2017  16:12    <DIR>          .
+13-11-2017  16:12    <DIR>          ..
+13-11-2017  16:12               317 test
+13-11-2017  16:12                 0 test.txt
+               2 File(s)            317 bytes
+               2 Dir(s)  184,761,425,920 bytes free
