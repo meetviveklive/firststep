@@ -1,3 +1,17 @@
 git init
 git status
 git add
+git commit -m "......"
+git remote add origin https://.....
+git push -u origin master
+git log
+git --help
+
+
+git config --global user.email "meetvivek@live.in"
+git config --global user.name "meetviveklive"
+
+./apachectl -k start
+./apachectl -k stop
+
+service httpd status
