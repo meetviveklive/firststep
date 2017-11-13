@@ -27,3 +27,5 @@ git config --global user.name "meetviveklive"
 ./apachectl -k stop
 
 service httpd status
+
+trigger
